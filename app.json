@@ -1,8 +1,21 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"],
-  "image": "heroku/nodejs"
+    "name": "Meetup Indux",
+    "description": "Meetup Indux",
+    "repository": "git@github.com:induxid/meetup.indux.id.git",
+    "logo": "http://assets.indux.id/logo-vertical.svg",
+    "keywords": ["indux", "ux", "ui"],
+    "default_url": "http://indux.eventbrite.com",
+
+    "meetup": [
+        {
+            "name": "Soft Launching & UX Meetup", 
+            "slug": "soft-launch-ux-meetup",
+            "url": "https://indux-meetup-1-soft-launching.eventbrite.com"
+        },
+        {
+            "name": "Next Meetup Title",
+            "slug": "next-meetup",
+            "url": "http://github.com"
+        }
+    ]
 }
