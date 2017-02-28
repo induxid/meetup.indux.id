@@ -16,6 +16,11 @@
             "name": "Next Meetup Title",
             "slug": "next-meetup",
             "url": "http://indux.eventbrite.com"
+        },
+        {
+            "name": "UX Meetup March",
+            "slug": "ux-meetup-march",
+            "url": "http://indux.eventbrite.com"
         }
     ]
 }
