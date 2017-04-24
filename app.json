@@ -6,6 +6,8 @@
     "keywords": ["indux", "ux", "ui"],
     "default_url": "http://indux.eventbrite.com",
 
+    /* meetup.indux.id.herokudns.com */
+
     "meetup": [
         {
             "name": "Soft Launching & UX Meetup", 
@@ -21,6 +23,11 @@
             "name": "UX Meetup March",
             "slug": "ux-meetup-march",
             "url": "http://indux.eventbrite.com"
+        },
+        {
+            "name": "UX Meetup April",
+            "slug": "ux-meetup-april",
+            "url": "https://www.eventbrite.com/e/ux-meetup-april-tickets-33921919374"
         }
     ]
 }
