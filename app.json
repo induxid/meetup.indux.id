@@ -5,9 +5,6 @@
     "logo": "http://assets.indux.id/logo-vertical.svg",
     "keywords": ["indux", "ux", "ui"],
     "default_url": "http://indux.eventbrite.com",
-
-    /* meetup.indux.id.herokudns.com */
-
     "meetup": [
         {
             "name": "Soft Launching & UX Meetup", 
